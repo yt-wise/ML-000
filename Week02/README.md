@@ -32,7 +32,7 @@ python -m cProfile file.py
 
 ​		cumtime→ 累计运行时间（包含调用其他函数）
 
-![image-20201231161513670](C:\Users\yt\AppData\Roaming\Typora\typora-user-images\image-20201231161513670.png)
+![](.\pic\image-20201231161513670.png)
 
 ​		<font color=red>_不实用_</font>
 
